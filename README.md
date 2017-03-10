@@ -26,7 +26,7 @@ var oOo = require('donut.js');
 #### `get(key)`
 
 ```javascript
-oOo.cookie.get('key'); // { String } // Cookie key name
+oOo.cookie.get('key'); // { String } Cookie key name
 ```
 
 #### `getAll()`
